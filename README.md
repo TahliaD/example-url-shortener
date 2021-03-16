@@ -1,6 +1,8 @@
 ### Summary
 
-This assignment was to implement a URL shortening service using PHP and Slim
+An example URL shortening service using PHP and Slim 
+This implementation does not use a database as part of it's implementation and instead uses a JSON
+store for simplicity. A real life implementation would require the use of a DB or another method of storing.
 
 ### How To Use
 
